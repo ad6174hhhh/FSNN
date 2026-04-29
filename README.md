@@ -8,12 +8,12 @@ Official PyTorch implementation of the FSNN architecture for time-series learnin
 
 To get started, ensure you have Conda installed on your system and follow these steps to set up the environment:
 ```bash
-conda create -n FilterNet python=3.8
-conda activate FilterNet
+conda create -n FSNN python=3.8
+conda activate FSNN
 pip install -r requirements.txt
 ```
 ### 2. Download Data
-All the datasets needed for FilterNet can be obtained from the [Google Drive](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy) provided in Autoformer.
+All the datasets needed for FSNN can be obtained from the [Google Drive](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy) provided in Autoformer.
 
 ### 3. Training 
 ```
