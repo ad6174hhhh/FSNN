@@ -7,10 +7,12 @@ Official PyTorch implementation of the FSNN architecture for time-series learnin
 ### 1\. Environments Requirements
 
 To get started, ensure you have Conda installed on your system and follow these steps to set up the environment:
-```bash
+```
+bash
 conda create -n FSNN python=3.8
 conda activate FSNN
 pip install -r requirements.txt
+
 ```
 
 ### 2\. Download Data
