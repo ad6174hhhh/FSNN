@@ -22,7 +22,7 @@ All the datasets needed for FSNN can be obtained from the [Google Drive](https:/
 ### 3\. Training
 
 ```
-bash ./FSNN\\\\\\\_classification.sh
+bash ./FSNN_classification.sh
 
 ```
 
